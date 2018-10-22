@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "/Users/bencarter/Code/Sites/vuedo-server/venv/bin/pylint"
+}
